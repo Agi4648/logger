@@ -1,0 +1,19 @@
+{
+    "name": "agi4648/logger",
+    "description": "A library to log data.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Agi4648\\Logger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Agnesa Salihi",
+            "email": "asalihi@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
