@@ -1,2 +1,9 @@
-PSR-4 autoloading configured. Use "namespace Agi4648\Logger;" in src/
-Include the Composer autoloader with: require 'vendor/autoload.php';
+# Logger
+
+A library to log data.
+
+Memo:
+```php 
+namespace Agi4648\Logger;
+require 'vendor/autoload.php';
+```
